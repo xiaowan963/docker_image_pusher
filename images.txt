@@ -1,2 +1,2 @@
-nginx:1.27.1
-tomcat:9.0.89-jdk8
+rancher/rancher:v2.12.1
+rancher/rancher:v2.12.2
