@@ -1,2 +1,1 @@
-mysql:8.0
-mysql:5.7.44
+redis:7.0.12
