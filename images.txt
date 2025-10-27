@@ -1,2 +1,2 @@
-prom/node-exporter:v1.8.2
+prom/node-exporter:v1.8.1
 
