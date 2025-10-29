@@ -1,2 +1,4 @@
-prom/node-exporter:v1.8.1
+giantswarm/ingress-nginx-controller:v1.7.1
+
+
 
