@@ -1,4 +1,4 @@
 giantswarm/ingress-nginx-controller:v1.7.1
-
+registry.cn-hangzhou.aliyuncs.com/hujiaming/kube-webhook-certgen:v20230312
 
 
