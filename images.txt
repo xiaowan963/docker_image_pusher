@@ -1,1 +1,1 @@
-docker.io/calico/cni:v3.30.0
+prom/mysqld-exporter:v0.17.2
