@@ -1,2 +1,1 @@
-bitnami/mysqld-exporter:latest
-quay.io/prometheus/alertmanager:v0.28.1
+timonwong/prometheus-webhook-dingtalk
