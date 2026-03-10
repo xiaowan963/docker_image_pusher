@@ -1,1 +1,1 @@
-registry.k8s.io/hpa-example
+nginx:1.14
