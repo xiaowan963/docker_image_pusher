@@ -1,1 +1,1 @@
-sapmachine:21.0.10-jdk-ubuntu-24.04
+nginx:1.28-alpine
