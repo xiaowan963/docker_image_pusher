@@ -1,2 +1,2 @@
-jenkins/jenkins:2.541.2-lts-jdk17
+maven:3.6.3
 
