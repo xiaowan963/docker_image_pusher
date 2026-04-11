@@ -1,1 +1,2 @@
 maven:3.6.3-openjdk-17
+ubuntu/jdk:17-24.04
